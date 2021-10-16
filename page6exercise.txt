@@ -1,0 +1,23 @@
+Q1. type, save, compile, build, run
+
+
+Q2. 
+1: String
+2: Float
+3. Float
+4. Int
+5. Character
+6. Integer
+7. String
+8. Character
+9. Integer
+10. Character
+
+
+Q3. 
+    1. 2+3*4=14
+    2. (2+3)*4=20
+    3. 8/4+3=5
+    4. 8/(3+1)=2
+    5. 3*((4+(6*2)*9/3-1))=84
+    6. 2^3+4*5-4/2*5=19
